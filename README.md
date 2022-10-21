@@ -1,6 +1,6 @@
 # Project
 
-[project.com](https://github.com/Tlotlo-pat/ruby_blog)
+[Simple Blog](https://github.com/Tlotlo-pat/ruby_blog)
 
 ## Install
 
