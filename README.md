@@ -1,24 +1,15 @@
-# README
+# Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[project.com](https://github.com/Tlotlo-pat/ruby_blog)
 
-Things you may want to cover:
+## Install
 
-* Ruby version
+### Clone the repository
 
-* System dependencies
+```shell
+git clone https://github.com/Tlotlo-pat/ruby_blog.git
+cd project
+```
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
